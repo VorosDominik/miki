@@ -5,6 +5,9 @@ aside {
   border-image-width: 100%;
   grid-area: as;
 }
+aside img{
+    width: 100%;
+}
 main {
   display: grid;
   grid-template-areas:
