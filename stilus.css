@@ -79,7 +79,7 @@ a:link:hover {
   background-color: green;
 }
 
-@media  screen and (max-width: 600px) {
+@media  screen and (max-width: 700px) {
     main {
     grid-template-areas:
     "h h h h"
